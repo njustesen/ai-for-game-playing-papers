@@ -1,4 +1,4 @@
-# AI for game playing papers
+# AI for Game Playing
 A list of papers on AI for game playing
 
 ## Overview/Vision/Review papers
