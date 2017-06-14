@@ -10,4 +10,4 @@ A list of papers on AI for game playing sorted by game.
 
 * Mnih, Volodymyr, et al. **Human-level control through deep reinforcement learning.** Nature 518.7540 (2015): 529-533.
 
-* Silver, David, et al. **"Mastering the game of Go with deep neural networks and tree search."** Nature 529.7587 (2016): 484-489.
+* Silver, David, et al. **Mastering the game of Go with deep neural networks and tree search.** Nature 529.7587 (2016): 484-489.
